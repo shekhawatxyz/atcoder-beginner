@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abc406 contest link
+
 import numpy as np
 
 def val_check(vals: list[int])-> str:
